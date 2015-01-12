@@ -1,1 +1,2 @@
-Kevin Diep 
+Name: Kevin Diep 
+Expectation: I want to be able to build a basic fully functional web app.
